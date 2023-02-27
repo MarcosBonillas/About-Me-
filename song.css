@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Labrada&family=Poppins&display=swap');
+
+
+
+
+body {
+  background-color: rgb(8, 41, 73);
+}
+
+h1 {
+  text-align: center;
+  background-color: rgb(54, 146, 238);
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  margin-top: 0%;
+  font-family: Labrada;
+}
+
+
+#s1 {
+  background-color: rgb(54, 146, 238);
+  flex-direction: row;
+  display: flex;
+  justify-content: space-around;
+  
+}
