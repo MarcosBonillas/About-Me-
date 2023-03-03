@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Labrada&family=Poppins&display=swap');
+
+
+
+
+body {
+  background-color:black;
+}
+
+h1 {
+  text-align: center;
+  background-color: rgb(235, 235, 235);
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  margin-top: 0%;
+  font-family: Labrada;
+}
+
+
+section {
+  background-color: rgb(235, 235, 235);
+  flex-direction: row;
+  display: flex;
+  justify-content: space-around;
+  font-family: Poppins;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+  border-radius: 15px;
+  margin-top:5% ;
+}
+
+div {
+  margin-left: 4%;
+  margin-top: 3%;
+  margin-right: 4%;
+  margin-bottom: 2%;
+}
+
+img {
+  width:100%;
+}
+
+
